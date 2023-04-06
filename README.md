@@ -1,4 +1,4 @@
-# Django + PostgreSQL
+# Django + ORM + Image Upload + PostgreSQL
 
 ## Django App for CRUD using Database in PostgreSQL
 
