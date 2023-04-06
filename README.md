@@ -1,3 +1,5 @@
 # Django + PostgreSQL
 
-## Django App for CRUD using ORM with PostgreSQL
+## Django App for CRUD using Database in PostgreSQL
+
+### CRUD Operation with image upload.
